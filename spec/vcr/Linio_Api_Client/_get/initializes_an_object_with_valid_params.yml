@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://sellercenter-api.linio.com.mx/?query%5BAction%5D=FeedList&query%5BFormat%5D=XML&query%5BSignature%5D=8dd9600acd21ff4f871070d5e3f5aa6a0d85b4bc430f12c5bc8bcade192a8d66&query%5BTimestamp%5D=2019-09-17T15:33:10-05:00&query%5BUserID%5D=hola@listify.mx&query%5BVersion%5D=1.0&verify=false
+    uri: https://sellercenter-api.linio.com.mx/?Action=FeedList&Format=XML&Signature=6ed89853791bb277a4b652246cf8e2aeb0fce4eae8b8ceae5516e23029ac59ac&Timestamp=2019-09-17T18:14:55-05:00&UserID=hola@listify.mx&Version=1.0
     body:
       encoding: US-ASCII
       string: ''
@@ -19,7 +19,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 17 Sep 2019 20:33:10 GMT
+      - Tue, 17 Sep 2019 23:14:59 GMT
       Content-Type:
       - text/xml; charset=utf-8
       Transfer-Encoding:
@@ -32,58 +32,46 @@ http_interactions:
       encoding: UTF-8
       string: |
         <?xml version="1.0" encoding="UTF-8"?>
-        <ErrorResponse>
+        <SuccessResponse>
           <Head>
-            <RequestAction/>
-            <ErrorType>Sender</ErrorType>
-            <ErrorCode>1</ErrorCode>
-            <ErrorMessage>E001: Parameter Version is mandatory</ErrorMessage>
+            <RequestId/>
+            <RequestAction>FeedList</RequestAction>
+            <ResponseType>Feed</ResponseType>
+            <Timestamp>2019-09-17T18:14:59-0500</Timestamp>
           </Head>
-          <Body/>
-        </ErrorResponse>
+          <Body>
+            <Feed>
+              <Feed>85d39c87-ace5-42ca-b00c-c9ce2e8b5c05</Feed>
+              <Status>Finished</Status>
+              <Action>ProductCreate</Action>
+              <CreationDate>2019-09-10 11:31:07</CreationDate>
+              <UpdatedDate>2019-09-10 11:38:51</UpdatedDate>
+              <Source>api</Source>
+              <TotalRecords>1</TotalRecords>
+              <ProcessedRecords>1</ProcessedRecords>
+              <FailedRecords>1</FailedRecords>
+              <FailureReports>
+                <MimeType>text/csv</MimeType>
+                <File>IkVycm9yIjsiV2FybmluZyI7IkJyYW5kIjsiRGVzY3JpcHRpb24iOyJOYW1lIjsiUHJpY2UiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiU2VsbGVyU2t1IjsiVGF4Q2xhc3MiCiJFbCBuw7ptZXJvIGRlIGxhIENhdGVnb3LDrWEgcHJpbWFyaWEgZXMgaW52w6FsaWRvLg0KQnJhbmQgJ0FTTScgaXMgbm90IHJlZ2lzdGVyZWQgb24gU2VsbGVyIENlbnRlci4NCidkZWZhdWx0JyBlcyB1biBpbXB1ZXN0byBpbnbDoWxpZG8NCkZpZWxkICdQYWNrYWdlV2VpZ2h0JyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdQYWNrYWdlV2lkdGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VMZW5ndGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VIZWlnaHQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IkFTTSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJQcm9kdWN0IjsiMTIzIjsiNCI7IjIsMyw1IjsiQVNNX0E4MDEwIjsiZGVmYXVsdCIK</File>
+              </FailureReports>
+            </Feed>
+            <Feed>
+              <Feed>fcbb9b31-d8cb-4788-8f65-6c717051ceca</Feed>
+              <Status>Finished</Status>
+              <Action>ProductCreate</Action>
+              <CreationDate>2019-09-10 11:26:03</CreationDate>
+              <UpdatedDate>2019-09-10 11:26:52</UpdatedDate>
+              <Source>api</Source>
+              <TotalRecords>1</TotalRecords>
+              <ProcessedRecords>1</ProcessedRecords>
+              <FailedRecords>1</FailedRecords>
+              <FailureReports>
+                <MimeType>text/csv</MimeType>
+                <File>IkVycm9yIjsiV2FybmluZyI7IkJyYW5kIjsiRGVzY3JpcHRpb24iOyJOYW1lIjsiUHJpY2UiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiU2VsbGVyU2t1IjsiVGF4Q2xhc3MiCiJFbCBuw7ptZXJvIGRlIGxhIENhdGVnb3LDrWEgcHJpbWFyaWEgZXMgaW52w6FsaWRvLg0KQnJhbmQgJ0FTTScgaXMgbm90IHJlZ2lzdGVyZWQgb24gU2VsbGVyIENlbnRlci4NCidkZWZhdWx0JyBlcyB1biBpbXB1ZXN0byBpbnbDoWxpZG8NCkZpZWxkICdQYWNrYWdlV2VpZ2h0JyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdQYWNrYWdlV2lkdGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VMZW5ndGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VIZWlnaHQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IkFTTSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJQcm9kdWN0IjsiMTIzIjsiNCI7IjIsMyw1IjsiQVNNX0E4MDEwIjsiZGVmYXVsdCIK</File>
+              </FailureReports>
+            </Feed>
+          </Body>
+        </SuccessResponse>
     http_version: 
-  recorded_at: Tue, 17 Sep 2019 20:33:11 GMT
-- request:
-    method: get
-    uri: https://sellercenter-api.linio.com.mx/?query%5BAction%5D=FeedList&query%5BFormat%5D=XML&query%5BSignature%5D=dd722b06a34bd0ce8d86a3bf435619c866128ae45c30dc9ded712fb61605e4c1&query%5BTimestamp%5D=2019-09-17T17:24:38-05:00&query%5BUserID%5D=hola@listify.mx&query%5BVersion%5D=1.0&verify=false
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-      User-Agent:
-      - Ruby
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
-      Date:
-      - Tue, 17 Sep 2019 22:24:38 GMT
-      Content-Type:
-      - text/xml; charset=utf-8
-      Transfer-Encoding:
-      - chunked
-      Connection:
-      - keep-alive
-      Server:
-      - nginx/1.15.3
-    body:
-      encoding: UTF-8
-      string: |
-        <?xml version="1.0" encoding="UTF-8"?>
-        <ErrorResponse>
-          <Head>
-            <RequestAction/>
-            <ErrorType>Sender</ErrorType>
-            <ErrorCode>1</ErrorCode>
-            <ErrorMessage>E001: Parameter Version is mandatory</ErrorMessage>
-          </Head>
-          <Body/>
-        </ErrorResponse>
-    http_version: 
-  recorded_at: Tue, 17 Sep 2019 22:24:38 GMT
+  recorded_at: Tue, 17 Sep 2019 23:14:59 GMT
 recorded_with: VCR 4.0.0

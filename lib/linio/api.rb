@@ -4,7 +4,6 @@ require 'linio/api/request_signer'
 require 'linio/api/request'
 
 module Linio
-  # Main Module
   module Api
     def self.root
       File.expand_path('../..', __dir__)

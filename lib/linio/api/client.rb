@@ -7,7 +7,6 @@ module Linio
         @secret_key = params[:secret_key]
         @version = params[:version] || '1.0'
         @format = params[:format] || 'XML'
-        @default_options = { verify: false }
       end
 
       def get(params)
@@ -23,8 +22,7 @@ module Linio
       private
 
       def process_request(type)
-        options = @default_options.merge **{query: @request_params}
-        request = Request.new(type, options)
+        request = Request.new(type, @request_params)
         request.execute
       end
 
