@@ -22,9 +22,8 @@ module Linio
       def execute
         options = DEFAULT_OPTIONS.merge **{query: @params}
         @response = self.class.send @type, "", options
-        true
       rescue StandardError => e
-        false
+        e
       end
     end
   end
