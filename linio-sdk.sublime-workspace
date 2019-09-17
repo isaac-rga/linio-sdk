@@ -519,24 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "bin/console",
-			"settings":
-			{
-				"buffer_size": 344,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 1772,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -549,6 +531,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"save pro",
+				"Project: Save As"
+			],
 			[
 				"save pr",
 				"Project: Save As"
@@ -780,10 +766,6 @@
 			[
 				"blame",
 				"Git: Blame"
-			],
-			[
-				"save pro",
-				"Project: Save As"
 			],
 			[
 				"modif",
@@ -1098,11 +1080,12 @@
 	},
 	"expanded_folders":
 	[
-		"/home/isaac/Projects/listify/linio",
-		"/home/isaac/Projects/listify/linio/bin"
+		"/home/isaac/Projects/listify/linio-sdk"
 	],
 	"file_history":
 	[
+		"/home/isaac/Projects/listify/linio/bin/console",
+		"/home/isaac/Projects/listify/linio/README.md",
 		"/home/isaac/Projects/listify/linio/lib/linio/api/client.rb",
 		"/home/isaac/Projects/listify/linio/lib/linio/api/request.rb",
 		"/home/isaac/Projects/listify/linio/spec/linio/api/client_spec.rb",
@@ -1228,9 +1211,7 @@
 		"/home/isaac/Projects/listify/backend/app/serializers/product_category_serializer.rb",
 		"/home/isaac/Projects/listify/backend/db/migrate/20190815013922_create_product_categories_table.rb",
 		"/home/isaac/Projects/listify/backend/db/migrate/20190805133238_create_listing_table.rb",
-		"/home/isaac/Projects/listify/backend/app/controllers/marketplaces_controller.rb",
-		"/home/isaac/Projects/listify/backend/app/controllers/categories_controller.rb",
-		"/home/isaac/Projects/listify/backend/app/serializers/marketplace_category_serializer.rb"
+		"/home/isaac/Projects/listify/backend/app/controllers/marketplaces_controller.rb"
 	],
 	"find":
 	{
@@ -1241,20 +1222,6 @@
 		"height": 182.0,
 		"where_history":
 		[
-			"",
-			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, */fondamix/*, -*public/JS/laroute.js",
-			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
-			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
-			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
-			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js|",
-			"*/app,*/bootstrap,*/public,*/resources,-*/storage/*,*/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js|",
-			"*/app,*/bootstrap,*/public,*/resources,-*/storage/*,*/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js",
-			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*",
-			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php",
-			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*",
-			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor",
-			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*",
-			""
 		]
 	},
 	"find_state":
@@ -1262,134 +1229,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"response",
-			"{\n      Action: \"FeedList\",\n      Format: \"XML\",\n      Timestamp: \"2015-07-01T11:11:11+00:00\",\n      UserID: \"look@me.com\",\n      Version: \"1.0\",\n      Signature: \"3ceb8ed91049dfc718b0d2d176fb2ed0e5fd74f76c5971f34cdab48412476041\"\n    }\n  end",
-			",",
-			"make_path",
-			"url_path",
-			"body",
-			"concatenate_param_values",
-			"lock",
-			"operation_serialized",
-			"create_operation",
-			"?\n",
-			"ImportSalesChannelProductsJob",
-			"ProductsManager",
-			"open",
-			"sales_channel_listings_references",
-			"product_has_attributes",
-			"sanitize",
-			"7351998123289341",
-			"ml_session",
-			"'",
-			"\"",
-			"attribute_already_processed",
-			"binding",
-			"rescue",
-			"create_listing",
-			"create_variants",
-			"calculate_sku_family",
-			"serialized_product_hash",
-			"create_product",
-			"sku",
-			"create_attributes_for_variant",
-			"find_image_related_to_variant",
-			"create_variants",
-			"find_image_related_to_variant",
-			"calculate_sku_family",
-			"product_has_attributes",
-			"create_attributes_for_product",
-			"find_attribute_of",
-			"'",
-			"next",
-			"create_attributes_for_product",
-			"'",
-			"create_attributes_for_product",
-			"create_variants",
-			"products_per_page",
-			"calculate_sku_family",
-			"create_attributes_for_product",
-			"sales_channel_listings_references",
-			"already_registered_on_products",
-			"create_variants",
-			"zero",
-			"create_product_images",
-			"create_listing",
-			"calculate_sku_family",
-			"find_attribute_of",
-			"sku",
-			"find_resource_with_sku",
-			"calculate_sku_family",
-			"current_channel_product",
-			"already_listed_on_channel",
-			"create_product(item)",
-			"create_product",
-			"products_per_page",
-			"access",
-			",",
-			"sales_channel_listings_references",
-			"find_resource_with_sku",
-			"company_products_ids",
-			"find_attribute_of",
-			"scoped_params",
-			"products_per_page",
-			"PER_PAGE",
-			"scoped_params",
-			"product_params",
-			"update_attributes",
-			"current_company.",
-			":product",
-			"product",
-			"channel_settings",
-			"\\\"",
-			"&.",
-			".&",
-			"price_increment_by_percentage",
-			"calc_price_increment",
-			"price_increment_by_percentage",
-			"calc_price_increment",
-			"price_increment_by_listing_type",
-			"price_increment_by",
-			"price_increment_by\n",
-			"\\\"",
-			"shipping",
-			"channel_settings",
-			"'",
-			"price",
-			"'",
-			"dig",
-			"'",
-			"create_product",
-			"get_refresh_token",
-			"sales_channel_listing",
-			"\\\"",
-			"applied_attributes_attrs",
-			"product_already_published",
-			"channel_authorization_params",
-			"'",
-			"valid_connection",
-			"error",
-			"sales_channel_url",
-			"'",
-			"valid_connection",
-			"sales_channel_instance",
-			"init_channel_with",
-			"listings",
-			"Airbrake.notify",
-			"response_error_messages",
-			"'",
-			"\\\"",
-			"service_url",
-			"pictures",
-			"\"",
-			"find_image_related_to_variant",
-			"'",
-			"&.",
-			"&",
-			"create_product_images",
-			"current_channel_product",
-			"@current_channel_variant",
-			"create_variants"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1397,84 +1236,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"\"",
-			"\\",
-			"",
-			"\\",
-			"\"",
-			"skus_not_found",
-			"\"",
-			"",
-			"shopify_session_temp",
-			"",
-			"\"",
-			"create_provider_class_of",
-			"COP",
-			"SERVIENTREGA",
-			"servientrega",
-			"Servientrega",
-			"",
-			"\"",
-			"@emisor_account",
-			"@emisor_bank_account",
-			"@kraken_bank_account",
-			"DHL, FedEx, UPS, Redpack, Estafeta, Paquetexpress y Sendex",
-			"srenvio.com",
-			"\"",
-			"",
-			"fa-file-text-o",
-			"(55) 4438-3888",
-			"525544383888",
-			"\"",
-			"950000002",
-			"\"",
-			"",
-			"destination",
-			"\"",
-			"",
-			"\"",
-			"",
-			"thekrakens/",
-			"\"",
-			"",
-			"170",
-			"ActiveRecord::Migration['5.1']",
-			"",
-			"([0-9])*",
-			"ActiveRecord::Migration['5.1']",
-			"ActiveRecord::Migration[5.1]",
-			"ActiveRecord::Migration['5.1']",
-			"deposit",
-			"@scoped_deposits",
-			"weight_range",
-			"standard_#{i}_kg",
-			"fedex_express_saver_#{i}_kg",
-			"buildError",
-			"$person",
-			"(person)",
-			"data('person')",
-			"data-person",
-			"person =",
-			"person.id)",
-			"person",
-			"data('person')",
-			"data-person",
-			"",
-			"client->id",
-			"client->it",
-			"publicationsWithTrashed",
-			"/lib/fileinput/fileinput.min.js",
-			"lib/fileinput/fileinput.min.js",
-			"lib/cropper/cropper.min.js",
-			"/lib/cropper/cropper.min.js",
-			"/lib/fileinput/fileinput.min.js",
-			"/lib/cropper/cropper.min.js",
-			"applicantData",
-			"postData[",
-			"postData",
-			"' =>",
-			"$request->",
-			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1485,396 +1246,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "bin/console",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 344,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								323,
-								323
-							]
-						],
-						"settings":
-						{
-							"SL.2255.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										322,
-										323
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										318,
-										319
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										322,
-										323
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										318,
-										319
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								431,
-								431
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": 2257,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -2646,10 +2019,6 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"xdebug":
-		{
-			"hide_conflict": false
-		}
 	},
 	"show_minimap": true,
 	"show_open_files": true,

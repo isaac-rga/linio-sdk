@@ -1,5 +1,3 @@
-require 'httparty'
-
 module Linio
   module Api
     class Client
