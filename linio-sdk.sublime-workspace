@@ -1,0 +1,2663 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attrib",
+				"attribute_name"
+			],
+			[
+				"woo",
+				"Woocommerce"
+			],
+			[
+				"pic",
+				"picture_ids"
+			],
+			[
+				"varia",
+				"variant"
+			],
+			[
+				"att",
+				"attribute_combinations"
+			],
+			[
+				"images",
+				"images_new"
+			],
+			[
+				"image",
+				"image_id"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"Product",
+				"ProductVariant"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"ref",
+				"reference_id"
+			],
+			[
+				"ass",
+				"association"
+			],
+			[
+				"sale",
+				"sales_channel"
+			],
+			[
+				"produc",
+				"product_id"
+			],
+			[
+				"cur",
+				"current_company"
+			],
+			[
+				"prodc",
+				"product_id"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"mark",
+				"marketplaces"
+			],
+			[
+				"market",
+				"marketplace"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"all",
+				"all_products"
+			],
+			[
+				"key",
+				"key_permissions"
+			],
+			[
+				"con",
+				"consumer_key"
+			],
+			[
+				"cos",
+				"consumer_key"
+			],
+			[
+				"sales_chanl",
+				"sales_channel"
+			],
+			[
+				"sales",
+				"sales_channels"
+			],
+			[
+				"i",
+				"image_id"
+			],
+			[
+				"ima",
+				"image_url"
+			],
+			[
+				"curre",
+				"current_product"
+			],
+			[
+				"procut",
+				"product_id"
+			],
+			[
+				"curr",
+				"current_product"
+			],
+			[
+				"Produ",
+				"ProductVariant"
+			],
+			[
+				"Do",
+				"Downloading"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"red",
+				"redirect_url"
+			],
+			[
+				"sho",
+				"shopify"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"decd",
+				"decoded_jwt"
+			],
+			[
+				"reire",
+				"redirect_url"
+			],
+			[
+				"upda",
+				"update_attributes"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"sugge",
+				"suggested_attributes"
+			],
+			[
+				"req",
+				"required_attributes"
+			],
+			[
+				"sa",
+				"same_attribute"
+			],
+			[
+				"name",
+				"name_attr"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"fetch",
+				"fetch_root_categories"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"curren",
+				"current_index"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"attac",
+				"attachment"
+			],
+			[
+				"desr",
+				"destroy"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"co",
+				"company"
+			],
+			[
+				"rg",
+				"registry"
+			],
+			[
+				"import",
+				"import_products"
+			],
+			[
+				"lo",
+				"lock_registry"
+			],
+			[
+				"tot",
+				"total_variants"
+			],
+			[
+				"rs",
+				"resource"
+			],
+			[
+				"cu",
+				"current_row"
+			],
+			[
+				"par",
+				"parsed_source"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"itera",
+				"iterate_children〔function〕"
+			],
+			[
+				"sub",
+				"subcategories〔variable〕"
+			],
+			[
+				"data",
+				"data_wrapper〔variable〕"
+			],
+			[
+				"lower",
+				"lower_time"
+			],
+			[
+				"ful",
+				"full_message"
+			],
+			[
+				"picku",
+				"pickup_params〔function〕"
+			],
+			[
+				"prov",
+				"provider〔variable〕"
+			],
+			[
+				"zip",
+				"zipcodes_served"
+			],
+			[
+				"address",
+				"address_from"
+			],
+			[
+				"fact",
+				"facturación"
+			],
+			[
+				"acc",
+				"AccountTransaction"
+			],
+			[
+				"fiscal",
+				"fiscal_data"
+			],
+			[
+				"send",
+				"send_tracking_number"
+			],
+			[
+				"Invoice",
+				"InvoiceManager"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"su",
+				"subsidized"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"ship",
+				"shipment"
+			],
+			[
+				"deb",
+				"debt_amount"
+			],
+			[
+				"parcel",
+				"parcelOverweight"
+			],
+			[
+				"shi",
+				"shipments"
+			],
+			[
+				"update",
+				"update_overweight"
+			],
+			[
+				"parce",
+				"parcelOverweight"
+			],
+			[
+				"wi",
+				"withdrawal_codes"
+			],
+			[
+				"deposi",
+				"deposit_codes"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"actua",
+				"actualizado"
+			],
+			[
+				"overw",
+				"overweight"
+			],
+			[
+				"price",
+				"price_in_list"
+			],
+			[
+				"amoun",
+				"amount_to_charge"
+			],
+			[
+				"pric",
+				"pricing_table"
+			],
+			[
+				"set",
+				"set_prices"
+			],
+			[
+				"realw",
+				"real_weight"
+			],
+			[
+				"label",
+				"label_params"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"addre",
+				"addressBlock"
+			],
+			[
+				"service_le",
+				"service_level_code"
+			],
+			[
+				"over",
+				"overweight"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"acco",
+				"account_transactions_id"
+			],
+			[
+				"col-",
+				"col-lg-8"
+			],
+			[
+				"s",
+				"sup\tTag"
+			],
+			[
+				"ser",
+				"service_level_code"
+			],
+			[
+				"max",
+				"max_base_weight"
+			],
+			[
+				"ex",
+				"extra_kg_price"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"refere",
+				"references"
+			],
+			[
+				"pri",
+				"pricing"
+			],
+			[
+				"provi",
+				"provider_class_of"
+			],
+			[
+				"cho",
+				"chosen_rate"
+			],
+			[
+				"referen",
+				"reference_number"
+			],
+			[
+				"refe",
+				"reference_number"
+			],
+			[
+				"de",
+				"default_settings"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"d",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bin/console",
+			"settings":
+			{
+				"buffer_size": 344,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save pr",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"checok",
+				"Git: Checkout Current File"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"UPC",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"mod",
+				"Git: Open Modified Files"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"cheock",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"lwer",
+				"Convert Case: Lower Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pasca",
+				"Convert Case: PascalCase"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"convert case",
+				"Convert Case: snake_case"
+			],
+			[
+				"snak",
+				"Convert Case: snake_case"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case con",
+				"Convert Case: PascalCase"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove tr",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"chec\t",
+				"Git: Checkout Current File"
+			],
+			[
+				"checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pakck",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"nsta",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rmove",
+				"Trimmer: Remove comments."
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"LOWE",
+				"Convert Case: Lower Case"
+			],
+			[
+				"SNAKE",
+				"Convert Case: snake_case"
+			],
+			[
+				"show dif",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set rai",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"set p",
+				"Set Syntax: PHP"
+			],
+			[
+				"set jsa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"cec",
+				"Git: Checkout Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"modif",
+				"Git: Open Modified Files"
+			],
+			[
+				"modi",
+				"Git: Open Modified Files"
+			],
+			[
+				"upsc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upcas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UPCA",
+				"Convert Case: Upper Case"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"mo",
+				"Git: Open Modified Files"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"sublime lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"set syn r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"inr",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json ",
+				"Set Syntax: JSON"
+			],
+			[
+				"the",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"keep o",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keep",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"kee\t",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"conf",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"kep",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"intsa",
+				"Package Control: Install Package"
+			],
+			[
+				"confi",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"chc",
+				"Git: Checkout Current File"
+			],
+			[
+				"u",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"set\t",
+				"Set Syntax: XML"
+			],
+			[
+				"checo",
+				"Git: Checkout Current File"
+			],
+			[
+				"moid",
+				"Git: Open Modified Files"
+			],
+			[
+				"set s sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"keeop",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"k",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"kee",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keeo",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keo",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keeo ",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mof",
+				"Git: Open Modified Files"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"case ",
+				"Convert Case: Lower Case"
+			],
+			[
+				"our",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"set xm",
+				"Set Syntax: XML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"case",
+				"Convert Case: PascalCase"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"checok\t",
+				"Git: Checkout Current File"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"trim",
+				"Trimmer: Trim file edges."
+			],
+			[
+				"checko\t",
+				"Git: Checkout Current File"
+			],
+			[
+				"kee ",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"con",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"keep t",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"show conf",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"acti",
+				"Material Theme: Activate theme"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sho ",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"o",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"ou",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"thei",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"test",
+				"TestRSpec: Test Current File"
+			],
+			[
+				"tes",
+				"TestRSpec: Test Current File"
+			]
+		],
+		"width": 612.0
+	},
+	"console":
+	{
+		"height": 398.0,
+		"history":
+		[
+			"import os, pprint; pprint.pprint(os.environ.copy())",
+			"cat app/services/parsers/csv_products.rb | rubocop --format emacs --force-exclusion --stdin /home/isaac/Projects/listify/backend/app/services/parsers/csv_products.rb",
+			"'a'.methods",
+			"'a'.class",
+			"'a'.clas",
+			"'a'",
+			"clear",
+			"var a = 0",
+			"0+1",
+			"0",
+			"a 0 0",
+			"var a = 0",
+			"var a",
+			"clear",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/isaac/Projects/listify/linio",
+		"/home/isaac/Projects/listify/linio/bin"
+	],
+	"file_history":
+	[
+		"/home/isaac/Projects/listify/linio/lib/linio/api/client.rb",
+		"/home/isaac/Projects/listify/linio/lib/linio/api/request.rb",
+		"/home/isaac/Projects/listify/linio/spec/linio/api/client_spec.rb",
+		"/home/isaac/Projects/listify/linio/lib/linio/api.rb",
+		"/home/isaac/Projects/listify/linio/spec/linio/api/request_spec.rb",
+		"/home/isaac/Projects/listify/linio/lib/linio/api/request_signer.rb",
+		"/home/isaac/Projects/listify/linio/spec/spec_helper.rb",
+		"/home/isaac/Projects/listify/linio/linio-sdk.gemspec",
+		"/home/isaac/Projects/listify/linio/lib/linio/api/response.rb",
+		"/home/isaac/Projects/listify/linio/spec/linio/api/request_signer_spec.rb",
+		"/home/isaac/Projects/listify/linio/lib/linio/api/version.rb",
+		"/home/isaac/Projects/listify/linio/spec/linio/api_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/user_serializer.rb",
+		"/home/isaac/Projects/listify/backend/config/routes.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/admin/users_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/models/user.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/products_controller.rb",
+		"/home/isaac/Projects/listify/backend/Gemfile",
+		"/home/isaac/Projects/listify/backend/config/locales/es.yml",
+		"/home/isaac/Projects/listify/backend/spec/serializers/user_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/config/initializers/devise.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/product_serializer.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/product/images_controller.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/product_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/shopify/products_importer.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/operations_manager.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/woocommerce/products_importer.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/products_importer.rb",
+		"/home/isaac/.bash_aliases",
+		"/home/isaac/Projects/listify/backend/app/controllers/sales_channels_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/products_manager.rb",
+		"/home/isaac/Projects/listify/backend/app/jobs/import_sales_channel_products_job.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/connection.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/products_syncer.rb",
+		"/home/isaac/Projects/listify/backend/spec/services/sales_channel_providers/mercadolibre/products_importer_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/woocommerce/connection.rb",
+		"/home/isaac/Projects/listify/backend/app/jobs/consecutive_job.rb",
+		"/home/isaac/Projects/listify/backend/lib/tasks/download_ml_items_to_csv_.rake",
+		"/home/isaac/Projects/listify/backend/app/models/sales_channel_listing.rb",
+		"/home/isaac/Projects/listify/backend/spec/vcr/SalesChannelProviders_Mercadolibre_ProductsImporter/_execute/when_all_products_were_imported_successfully/1_1_1_1.yml",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/publish.rb",
+		"/home/isaac/Projects/listify/backend/app/models/product.rb",
+		"/home/isaac/Projects/listify/backend/spec/services/sales_channel_providers/mercadolibre/operations/publish_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/factories.rb",
+		"/home/isaac/Projects/listify/backend/.env",
+		"/home/isaac/Projects/listify/backend/spec/serializers/sales_channel_providers/mercadolibre_product_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/spec_helper.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb",
+		"/home/isaac/Projects/listify/backend/app/models/marketplace_category.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/product_category_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/sales_channel_operation_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/sales_channel_listing_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/marketplaces_category_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/serializers/sales_channel_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/sales_channel_serializer.rb",
+		"/home/isaac/Projects/listify/backend/config/sidekiq.yml",
+		"/home/isaac/Projects/listify/backend/db/schema.rb",
+		"/home/isaac/Projects/listify/backend/lib/tasks/fetch_categories_from_ml.rake",
+		"/home/isaac/Projects/listify/backend/spec/serializers/product_variant_serializer_spec.rb",
+		"/home/isaac/Projects/listify/backend/Gushfile",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/pause.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/sync_from.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/sync_to.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/shopify/products_syncer.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190904021237_add_settings_on_sales_channel.rb",
+		"/home/isaac/Projects/listify/backend/lib/tasks/fetch_technical_specs_from_ml.rake",
+		"/home/isaac/Projects/listify/backend/app/controllers/companies_controller.rb",
+		"/home/isaac/Projects/listify/backend/Procfile",
+		"/home/isaac/Projects/listify/backend/app/models/sales_channel.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/setup.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/sales_channel_listing_serializer.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/shopify/connection.rb",
+		"/home/isaac/Projects/listify/backend/app/models/product_variant.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/product_variant_serializer.rb",
+		"/home/isaac/Projects/listify/backend/spec/support/csv_to_import/invalid_products.csv",
+		"/home/isaac/Projects/listify/backend/spec/services/product_image_attacher_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/workers/product_image_attacher_worker.rb",
+		"/home/isaac/Projects/listify/backend/app/services/product_image_attacher.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190829164803_create_images_table.rb",
+		"/home/isaac/Projects/listify/backend/app/models/image.rb",
+		"/home/isaac/Projects/listify/backend/spec/services/sales_channel_providers/shopify/products_importer_spec.rb",
+		"/home/isaac/Projects/listify/backend/spec/controllers/images_controller_spec.rb",
+		"/home/isaac/Projects/listify/backend/Gemfile.lock",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190829170522_add_image_to_variant.rb",
+		"/home/isaac/Projects/listify/backend/app/jobs/sync_sales_channel_products_job.rb",
+		"/home/isaac/Projects/listify/backend/spec/services/sales_channel_providers/products_manager_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/models/company.rb",
+		"/home/isaac/.tmux.conf",
+		"/home/isaac/Projects/listify/backend/spec/services/products_importer_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/services/consecutive_job_handler.rb",
+		"/home/isaac/Projects/listify/backend/app/jobs/import_products_job.rb",
+		"/home/isaac/Projects/listify/backend/app/services/products_importer.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/sales_channel_operation_serializer.rb",
+		"/home/isaac/Projects/listify/backend/config/application.rb",
+		"/home/isaac/Projects/listify/backend/config/environments/production.rb",
+		"/home/isaac/Projects/listify/backend/config/environments/development.rb",
+		"/home/isaac/Projects/listify/backend/app/workers/sales_channel_operation_worker.rb",
+		"/home/isaac/Projects/listify/backend/Guardfile",
+		"/home/isaac/Projects/listify/backend/app/models/sales_channel_operation.rb",
+		"/home/isaac/Projects/listify/backend/spec/vcr/SalesChannelProviders_Shopify_ProductsImporter/_execute/when_all_products_were_imported_successfully/1_1_1_1.yml",
+		"/home/isaac/Projects/listify/backend/app/controllers/product/channel_listings_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/company_serializer.rb",
+		"/home/isaac/Projects/listify/backend/config/initializers/airbrake.rb",
+		"/home/isaac/Projects/listify/backend/spec/vcr/SalesChannelProviders_Mercadolibre_Operations_Publish/_execute/With_valid_product_information/When_product_is_not_yet_listed_on_marketplace/1_1_2_1_1.yml",
+		"/home/isaac/Projects/listify/backend/app/controllers/product/categories_controller.rb",
+		"/home/isaac/Projects/listify/backend/spec/services/sales_channel_providers/operations_manager_spec.rb",
+		"/home/isaac/Projects/listify/backend/app/models/product_category.rb",
+		"/home/isaac/Projects/listify/backend/spec/vcr/SalesChannelProviders_Mercadolibre_Operations_Publish/_execute/when_product_listing_is_already/1_1_1_1.yml",
+		"/tmp/15030.credentials.yml",
+		"/tmp/12175.credentials.yml",
+		"/tmp/11402.credentials.yml",
+		"/home/isaac/Projects/listify/backend/app/exceptions/sales_channel_provider_operation_error.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190818234104_create_sales_channel_operations_table.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/SyncTo.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/SyncFrom.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/Pause.rb",
+		"/home/isaac/Projects/listify/backend/app/services/sales_channel_providers/mercadolibre/operations/Publish.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/api_controller.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190818233641_add_operation_status_column_to_sales_channel_listings.rb",
+		"/home/isaac/Downloads/page/Circle Skirt App – By Hand London.html",
+		"/home/isaac/Projects/listify/backend/app/controllers/product/attributes_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/product/variants_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/product_category_serializer.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190815013922_create_product_categories_table.rb",
+		"/home/isaac/Projects/listify/backend/db/migrate/20190805133238_create_listing_table.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/marketplaces_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/controllers/categories_controller.rb",
+		"/home/isaac/Projects/listify/backend/app/serializers/marketplace_category_serializer.rb"
+	],
+	"find":
+	{
+		"height": 78.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			"",
+			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, */fondamix/*, -*public/JS/laroute.js",
+			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
+			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
+			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*public/JS/laroute.js",
+			"*/app/*,*/bootstrap/*,*/public/*,*/resources/*,-*/storage/*,-*/vendor/*,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js|",
+			"*/app,*/bootstrap,*/public,*/resources,-*/storage/*,*/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js|",
+			"*/app,*/bootstrap,*/public,*/resources,-*/storage/*,*/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*, -*/JS/laroute.js",
+			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php, -*/app.css, -*/fondamix/*",
+			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*, ,-*/views/50X.blade.php, -*/views/maintenance.blade.php",
+			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor,-*/.sass-cache/*",
+			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*,/home/isaac/Projects/emplera/vendor",
+			"/home/isaac/Projects/emplera/app,/home/isaac/Projects/emplera/bootstrap,/home/isaac/Projects/emplera/public,/home/isaac/Projects/emplera/resources,-*/storage/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response",
+			"{\n      Action: \"FeedList\",\n      Format: \"XML\",\n      Timestamp: \"2015-07-01T11:11:11+00:00\",\n      UserID: \"look@me.com\",\n      Version: \"1.0\",\n      Signature: \"3ceb8ed91049dfc718b0d2d176fb2ed0e5fd74f76c5971f34cdab48412476041\"\n    }\n  end",
+			",",
+			"make_path",
+			"url_path",
+			"body",
+			"concatenate_param_values",
+			"lock",
+			"operation_serialized",
+			"create_operation",
+			"?\n",
+			"ImportSalesChannelProductsJob",
+			"ProductsManager",
+			"open",
+			"sales_channel_listings_references",
+			"product_has_attributes",
+			"sanitize",
+			"7351998123289341",
+			"ml_session",
+			"'",
+			"\"",
+			"attribute_already_processed",
+			"binding",
+			"rescue",
+			"create_listing",
+			"create_variants",
+			"calculate_sku_family",
+			"serialized_product_hash",
+			"create_product",
+			"sku",
+			"create_attributes_for_variant",
+			"find_image_related_to_variant",
+			"create_variants",
+			"find_image_related_to_variant",
+			"calculate_sku_family",
+			"product_has_attributes",
+			"create_attributes_for_product",
+			"find_attribute_of",
+			"'",
+			"next",
+			"create_attributes_for_product",
+			"'",
+			"create_attributes_for_product",
+			"create_variants",
+			"products_per_page",
+			"calculate_sku_family",
+			"create_attributes_for_product",
+			"sales_channel_listings_references",
+			"already_registered_on_products",
+			"create_variants",
+			"zero",
+			"create_product_images",
+			"create_listing",
+			"calculate_sku_family",
+			"find_attribute_of",
+			"sku",
+			"find_resource_with_sku",
+			"calculate_sku_family",
+			"current_channel_product",
+			"already_listed_on_channel",
+			"create_product(item)",
+			"create_product",
+			"products_per_page",
+			"access",
+			",",
+			"sales_channel_listings_references",
+			"find_resource_with_sku",
+			"company_products_ids",
+			"find_attribute_of",
+			"scoped_params",
+			"products_per_page",
+			"PER_PAGE",
+			"scoped_params",
+			"product_params",
+			"update_attributes",
+			"current_company.",
+			":product",
+			"product",
+			"channel_settings",
+			"\\\"",
+			"&.",
+			".&",
+			"price_increment_by_percentage",
+			"calc_price_increment",
+			"price_increment_by_percentage",
+			"calc_price_increment",
+			"price_increment_by_listing_type",
+			"price_increment_by",
+			"price_increment_by\n",
+			"\\\"",
+			"shipping",
+			"channel_settings",
+			"'",
+			"price",
+			"'",
+			"dig",
+			"'",
+			"create_product",
+			"get_refresh_token",
+			"sales_channel_listing",
+			"\\\"",
+			"applied_attributes_attrs",
+			"product_already_published",
+			"channel_authorization_params",
+			"'",
+			"valid_connection",
+			"error",
+			"sales_channel_url",
+			"'",
+			"valid_connection",
+			"sales_channel_instance",
+			"init_channel_with",
+			"listings",
+			"Airbrake.notify",
+			"response_error_messages",
+			"'",
+			"\\\"",
+			"service_url",
+			"pictures",
+			"\"",
+			"find_image_related_to_variant",
+			"'",
+			"&.",
+			"&",
+			"create_product_images",
+			"current_channel_product",
+			"@current_channel_variant",
+			"create_variants"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\\",
+			"",
+			"\\",
+			"\"",
+			"skus_not_found",
+			"\"",
+			"",
+			"shopify_session_temp",
+			"",
+			"\"",
+			"create_provider_class_of",
+			"COP",
+			"SERVIENTREGA",
+			"servientrega",
+			"Servientrega",
+			"",
+			"\"",
+			"@emisor_account",
+			"@emisor_bank_account",
+			"@kraken_bank_account",
+			"DHL, FedEx, UPS, Redpack, Estafeta, Paquetexpress y Sendex",
+			"srenvio.com",
+			"\"",
+			"",
+			"fa-file-text-o",
+			"(55) 4438-3888",
+			"525544383888",
+			"\"",
+			"950000002",
+			"\"",
+			"",
+			"destination",
+			"\"",
+			"",
+			"\"",
+			"",
+			"thekrakens/",
+			"\"",
+			"",
+			"170",
+			"ActiveRecord::Migration['5.1']",
+			"",
+			"([0-9])*",
+			"ActiveRecord::Migration['5.1']",
+			"ActiveRecord::Migration[5.1]",
+			"ActiveRecord::Migration['5.1']",
+			"deposit",
+			"@scoped_deposits",
+			"weight_range",
+			"standard_#{i}_kg",
+			"fedex_express_saver_#{i}_kg",
+			"buildError",
+			"$person",
+			"(person)",
+			"data('person')",
+			"data-person",
+			"person =",
+			"person.id)",
+			"person",
+			"data('person')",
+			"data-person",
+			"",
+			"client->id",
+			"client->it",
+			"publicationsWithTrashed",
+			"/lib/fileinput/fileinput.min.js",
+			"lib/fileinput/fileinput.min.js",
+			"lib/cropper/cropper.min.js",
+			"/lib/cropper/cropper.min.js",
+			"/lib/fileinput/fileinput.min.js",
+			"/lib/cropper/cropper.min.js",
+			"applicantData",
+			"postData[",
+			"postData",
+			"' =>",
+			"$request->",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bin/console",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"SL.2255.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										322,
+										323
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										318,
+										319
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										322,
+										323
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										318,
+										319
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 2257,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 168.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 628.0
+	},
+	"output.exec":
+	{
+		"height": 506.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "linio-sdk.sublime-project",
+	"replace":
+	{
+		"height": 130.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"sig",
+				"lib/linio/api/request_signer.rb"
+			],
+			[
+				"res sin",
+				"lib/linio/api/request_signer.rb"
+			],
+			[
+				"res qs",
+				"lib/linio/api/request_signer.rb"
+			],
+			[
+				"req",
+				"lib/linio/api/request_signer.rb"
+			],
+			[
+				"req s",
+				"lib/linio/api/request_signer.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"user ser",
+				"app/serializers/user_serializer.rb"
+			],
+			[
+				"user sp",
+				"spec/serializers/user_serializer_spec.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"prod seri",
+				"app/serializers/product_serializer.rb"
+			],
+			[
+				"prod ss",
+				"spec/serializers/product_serializer_spec.rb"
+			],
+			[
+				"shop pro",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"opera",
+				"app/services/sales_channel_providers/operations_manager.rb"
+			],
+			[
+				"prod iimpo",
+				"app/services/sales_channel_providers/mercadolibre/products_importer.rb"
+			],
+			[
+				"woocom",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"shopi pro im",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod con",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"sales ",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"shop",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"sales chann",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"prod mana",
+				"app/services/sales_channel_providers/products_manager.rb"
+			],
+			[
+				"merca prod im",
+				"app/services/sales_channel_providers/mercadolibre/products_importer.rb"
+			],
+			[
+				"mera prod im",
+				"app/services/sales_channel_providers/mercadolibre/products_importer.rb"
+			],
+			[
+				"prod man",
+				"app/services/sales_channel_providers/products_manager.rb"
+			],
+			[
+				"impor",
+				"app/jobs/import_sales_channel_products_job.rb"
+			],
+			[
+				"ImportSalesChannelProductsJob",
+				"app/jobs/import_sales_channel_products_job.rb"
+			],
+			[
+				"conse",
+				"app/jobs/consecutive_job.rb"
+			],
+			[
+				"mera prod impo",
+				"app/services/sales_channel_providers/mercadolibre/products_importer.rb"
+			],
+			[
+				"woo com con",
+				"app/services/sales_channel_providers/woocommerce/connection.rb"
+			],
+			[
+				"downlo",
+				"lib/tasks/download_ml_items_to_csv_.rake"
+			],
+			[
+				"prod import spec",
+				"spec/services/sales_channel_providers/mercadolibre/products_importer_spec.rb"
+			],
+			[
+				"mera prod impor",
+				"spec/services/sales_channel_providers/mercadolibre/products_importer_spec.rb"
+			],
+			[
+				"publ",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"shopi prod",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod",
+				"app/models/product.rb"
+			],
+			[
+				"woocm p",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"prod sync",
+				"app/services/sales_channel_providers/mercadolibre/products_syncer.rb"
+			],
+			[
+				"woocm ",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"conne",
+				"app/services/sales_channel_providers/mercadolibre/connection.rb"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"spec hel",
+				"spec/spec_helper.rb"
+			],
+			[
+				"prod syn",
+				"app/services/sales_channel_providers/mercadolibre/products_syncer.rb"
+			],
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"sales cha",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"facto",
+				"spec/factories.rb"
+			],
+			[
+				"merca ser",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"publis",
+				"spec/services/sales_channel_providers/mercadolibre/operations/publish_spec.rb"
+			],
+			[
+				"mera publ",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"proc",
+				"Procfile"
+			],
+			[
+				"mercado",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"sales",
+				"app/models/sales_channel.rb"
+			],
+			[
+				"merca",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"compan",
+				"app/controllers/companies_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"sales chan",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"merca ",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"chan con",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"publish ",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"merca publ",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"setup",
+				"app/services/sales_channel_providers/setup.rb"
+			],
+			[
+				"woo con",
+				"app/services/sales_channel_providers/woocommerce/connection.rb"
+			],
+			[
+				"merca conn",
+				"app/services/sales_channel_providers/mercadolibre/connection.rb"
+			],
+			[
+				"shopi conn",
+				"app/services/sales_channel_providers/shopify/connection.rb"
+			],
+			[
+				"SalesChannelProviders",
+				"app/services/sales_channel_providers/setup.rb"
+			],
+			[
+				"sales channel con",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"merca conne",
+				"app/services/sales_channel_providers/mercadolibre/connection.rb"
+			],
+			[
+				"listing",
+				"app/serializers/sales_channel_listing_serializer.rb"
+			],
+			[
+				"prod ser",
+				"app/serializers/product_serializer.rb"
+			],
+			[
+				"prod sera",
+				"app/serializers/product_serializer.rb"
+			],
+			[
+				"publi",
+				"app/services/sales_channel_providers/mercadolibre/operations/publish.rb"
+			],
+			[
+				"vari",
+				"app/models/product_variant.rb"
+			],
+			[
+				"mercad p",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"prod varia spe",
+				"spec/serializers/product_variant_serializer_spec.rb"
+			],
+			[
+				"varian",
+				"app/serializers/product_variant_serializer.rb"
+			],
+			[
+				"woo com i",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"shopif pr",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod in",
+				"spec/support/csv_to_import/invalid_products.csv"
+			],
+			[
+				"woo prod ",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"publish",
+				"spec/services/sales_channel_providers/mercadolibre/operations/publish_spec.rb"
+			],
+			[
+				"image con",
+				"app/controllers/product/images_controller.rb"
+			],
+			[
+				"prod impor",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod ima s",
+				"spec/services/product_image_attacher_spec.rb"
+			],
+			[
+				"woocom pr",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"ima",
+				"app/models/image.rb"
+			],
+			[
+				"shopify spec",
+				"spec/services/sales_channel_providers/shopify/products_importer_spec.rb"
+			],
+			[
+				"prod im",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"image at",
+				"app/services/product_image_attacher.rb"
+			],
+			[
+				"facot",
+				"spec/factories.rb"
+			],
+			[
+				"image",
+				"app/models/image.rb"
+			],
+			[
+				"merc",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"pro seria",
+				"app/serializers/product_serializer.rb"
+			],
+			[
+				"prod var",
+				"app/models/product_variant.rb"
+			],
+			[
+				"prod v",
+				"app/models/product_variant.rb"
+			],
+			[
+				"prod imp",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod va",
+				"app/models/product_variant.rb"
+			],
+			[
+				"db shc",
+				"db/schema.rb"
+			],
+			[
+				"prod ",
+				"app/models/product.rb"
+			],
+			[
+				"woo com pr",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"fet mar",
+				"lib/tasks/fetch_categories_from_ml.rake"
+			],
+			[
+				"mark",
+				"app/models/marketplace_category.rb"
+			],
+			[
+				"salc chan c ",
+				"app/controllers/sales_channels_controller.rb"
+			],
+			[
+				"shop prod",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"merca prod syn",
+				"app/services/sales_channel_providers/mercadolibre/products_syncer.rb"
+			],
+			[
+				"sales c",
+				"app/models/sales_channel.rb"
+			],
+			[
+				"woocom ",
+				"app/services/sales_channel_providers/woocommerce/products_importer.rb"
+			],
+			[
+				"wooc",
+				"app/services/sales_channel_providers/woocommerce/connection.rb"
+			],
+			[
+				"merca seria",
+				"app/serializers/sales_channel_providers/mercadolibre_product_serializer.rb"
+			],
+			[
+				"job",
+				"app/jobs/sync_sales_channel_products_job.rb"
+			],
+			[
+				"prod man spec",
+				"spec/services/sales_channel_providers/products_manager_spec.rb"
+			],
+			[
+				"sync",
+				"app/services/sales_channel_providers/mercadolibre/products_syncer.rb"
+			],
+			[
+				"opera m",
+				"app/services/sales_channel_providers/operations_manager.rb"
+			],
+			[
+				"ProductsManager",
+				"app/services/sales_channel_providers/products_manager.rb"
+			],
+			[
+				"SyncSalesChannelProductsJob",
+				"app/jobs/sync_sales_channel_products_job.rb"
+			],
+			[
+				"sale cha",
+				"app/models/sales_channel_listing.rb"
+			],
+			[
+				"comp",
+				"app/models/company.rb"
+			],
+			[
+				"prod impo",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"prod impot",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"connect",
+				"app/services/sales_channel_providers/mercadolibre/connection.rb"
+			],
+			[
+				"merc aconne",
+				"app/services/sales_channel_providers/mercadolibre/connection.rb"
+			],
+			[
+				"prod importer spec",
+				"spec/services/sales_channel_providers/shopify/products_importer_spec.rb"
+			],
+			[
+				"spec produc",
+				"spec/services/products_importer_spec.rb"
+			],
+			[
+				"sync job",
+				"app/jobs/sync_sales_channel_products_job.rb"
+			],
+			[
+				"shopi impo",
+				"app/services/sales_channel_providers/shopify/products_importer.rb"
+			],
+			[
+				"SalesChannelProviders setu",
+				"app/services/sales_channel_providers/setup.rb"
+			],
+			[
+				"compa",
+				"app/models/company.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 505.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/listify/backend/listify-backend.sublime-project"
+			],
+			[
+				"sh",
+				"~/Projects/srenvio/shipkraken/shipkraken.sublime-project"
+			],
+			[
+				"lis",
+				"~/Projects/listify/landing/listify-landing.sublime-project"
+			],
+			[
+				"land",
+				"~/Projects/listify/landing/listify-landing.sublime-project"
+			],
+			[
+				"mer",
+				"~/Projects/srenvio/mercadolibre-ruby-sdk/mercadolibre-ruby-sdk.sublime-project"
+			],
+			[
+				"\\",
+				"~/Projects/listify/landing/listify-landing.sublime-project"
+			],
+			[
+				"shi",
+				"~/Projects/srenvio/shipkraken/shipkraken.sublime-project"
+			],
+			[
+				"m",
+				"~/Projects/srenvio/mercadolibre-ruby-sdk/mercadolibre-ruby-sdk.sublime-project"
+			],
+			[
+				"back",
+				"~/Projects/listify/backend/listify-backend.sublime-project"
+			],
+			[
+				"la",
+				"~/Projects/listify/landing/listify-landing.sublime-project"
+			],
+			[
+				"li",
+				"~/Projects/listify/landing/listify-landing.sublime-project"
+			],
+			[
+				"carr",
+				"~/Projects/srenvio/gems/carrier/carrier-gems.sublime-project"
+			],
+			[
+				"invo",
+				"~/Projects/Skydrop/invoicing-kraken/invoicing-kraken.sublime-project"
+			],
+			[
+				"inv",
+				"~/Projects/Skydrop/invoicing-kraken/invoicing-kraken.sublime-project"
+			],
+			[
+				"car",
+				"~/Projects/Skydrop/carrier_gems/carrier_gems.sublime-project"
+			],
+			[
+				"parc",
+				"~/Projects/Skydrop/parcel_checker/parcel-checker.sublime-project"
+			],
+			[
+				"re",
+				"~/Projects/Skydrop/carrier_gems/carrier_gems.sublime-project"
+			],
+			[
+				"pa",
+				"~/Projects/Skydrop/carrier_gems/carrier_gems.sublime-project"
+			],
+			[
+				"gm",
+				"~/Projects/Skydrop/carrier_gems/carrier_gems.sublime-project"
+			],
+			[
+				"par",
+				"~/Projects/Skydrop/parcel_checker/parcel-checker.sublime-project"
+			],
+			[
+				"gem",
+				"~/Projects/Skydrop/carrier_gems/carrier_gems.sublime-project"
+			],
+			[
+				"p",
+				"~/Projects/Skydrop/parcel_checker/parcel-checker.sublime-project"
+			]
+		],
+		"width": 384.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"countries_list",
+				"countries_list"
+			],
+			[
+				"all_prices",
+				"all_prices"
+			],
+			[
+				"status",
+				"status"
+			],
+			[
+				"addTrack",
+				"addTrack"
+			],
+			[
+				"link_to_ro",
+				"link_to_route"
+			],
+			[
+				"showMy",
+				"showMyVacancies"
+			],
+			[
+				"processAssi",
+				"processAssignationFromApplicantsList"
+			],
+			[
+				"getVacanciesByUser",
+				"getVacanciesByUser"
+			],
+			[
+				"showmy v",
+				"showMyVacancies"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"listAppl",
+				"listApplicants"
+			],
+			[
+				"showmy",
+				"showMyVacancies"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"wizard",
+				"wizard"
+			],
+			[
+				"getApplicantsByRole",
+				"getApplicantsByRole"
+			],
+			[
+				"listApp",
+				"listApplicants"
+			],
+			[
+				"groupedPaginate",
+				"ungroupedPaginate"
+			],
+			[
+				"paginate",
+				"paginate"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

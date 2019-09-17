@@ -1,0 +1,77 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://sellercenter-api.linio.com.mx/?Action=FeedList&Format=XML&Signature=67661f7ca86b37599d939b7f66a40a8810443d3cfe590dadd691346e7254f400&Timestamp=2019-09-17T14:16:28-05:00&UserID=hola@listify.mx&Version=1.0
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 17 Sep 2019 19:16:29 GMT
+      Content-Type:
+      - text/xml; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Server:
+      - nginx/1.15.3
+    body:
+      encoding: UTF-8
+      string: |
+        <?xml version="1.0" encoding="UTF-8"?>
+        <SuccessResponse>
+          <Head>
+            <RequestId/>
+            <RequestAction>FeedList</RequestAction>
+            <ResponseType>Feed</ResponseType>
+            <Timestamp>2019-09-17T14:16:29-0500</Timestamp>
+          </Head>
+          <Body>
+            <Feed>
+              <Feed>85d39c87-ace5-42ca-b00c-c9ce2e8b5c05</Feed>
+              <Status>Finished</Status>
+              <Action>ProductCreate</Action>
+              <CreationDate>2019-09-10 11:31:07</CreationDate>
+              <UpdatedDate>2019-09-10 11:38:51</UpdatedDate>
+              <Source>api</Source>
+              <TotalRecords>1</TotalRecords>
+              <ProcessedRecords>1</ProcessedRecords>
+              <FailedRecords>1</FailedRecords>
+              <FailureReports>
+                <MimeType>text/csv</MimeType>
+                <File>IkVycm9yIjsiV2FybmluZyI7IkJyYW5kIjsiRGVzY3JpcHRpb24iOyJOYW1lIjsiUHJpY2UiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiU2VsbGVyU2t1IjsiVGF4Q2xhc3MiCiJFbCBuw7ptZXJvIGRlIGxhIENhdGVnb3LDrWEgcHJpbWFyaWEgZXMgaW52w6FsaWRvLg0KQnJhbmQgJ0FTTScgaXMgbm90IHJlZ2lzdGVyZWQgb24gU2VsbGVyIENlbnRlci4NCidkZWZhdWx0JyBlcyB1biBpbXB1ZXN0byBpbnbDoWxpZG8NCkZpZWxkICdQYWNrYWdlV2VpZ2h0JyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdQYWNrYWdlV2lkdGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VMZW5ndGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VIZWlnaHQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IkFTTSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJQcm9kdWN0IjsiMTIzIjsiNCI7IjIsMyw1IjsiQVNNX0E4MDEwIjsiZGVmYXVsdCIK</File>
+              </FailureReports>
+            </Feed>
+            <Feed>
+              <Feed>fcbb9b31-d8cb-4788-8f65-6c717051ceca</Feed>
+              <Status>Finished</Status>
+              <Action>ProductCreate</Action>
+              <CreationDate>2019-09-10 11:26:03</CreationDate>
+              <UpdatedDate>2019-09-10 11:26:52</UpdatedDate>
+              <Source>api</Source>
+              <TotalRecords>1</TotalRecords>
+              <ProcessedRecords>1</ProcessedRecords>
+              <FailedRecords>1</FailedRecords>
+              <FailureReports>
+                <MimeType>text/csv</MimeType>
+                <File>IkVycm9yIjsiV2FybmluZyI7IkJyYW5kIjsiRGVzY3JpcHRpb24iOyJOYW1lIjsiUHJpY2UiOyJQcmltYXJ5Q2F0ZWdvcnkiOyJDYXRlZ29yaWVzIjsiU2VsbGVyU2t1IjsiVGF4Q2xhc3MiCiJFbCBuw7ptZXJvIGRlIGxhIENhdGVnb3LDrWEgcHJpbWFyaWEgZXMgaW52w6FsaWRvLg0KQnJhbmQgJ0FTTScgaXMgbm90IHJlZ2lzdGVyZWQgb24gU2VsbGVyIENlbnRlci4NCidkZWZhdWx0JyBlcyB1biBpbXB1ZXN0byBpbnbDoWxpZG8NCkZpZWxkICdQYWNrYWdlV2VpZ2h0JyBjYW5ub3QgYmUgZW1wdHkNCkZpZWxkICdQYWNrYWdlV2lkdGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VMZW5ndGgnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ1BhY2thZ2VIZWlnaHQnIGNhbm5vdCBiZSBlbXB0eQ0KRmllbGQgJ0NvbmRpdGlvblR5cGUnIGNhbm5vdCBiZSBlbXB0eSI7IiI7IkFTTSI7InByb2R1Y3QgZGVzY3JpcHRpb24iOyJQcm9kdWN0IjsiMTIzIjsiNCI7IjIsMyw1IjsiQVNNX0E4MDEwIjsiZGVmYXVsdCIK</File>
+              </FailureReports>
+            </Feed>
+          </Body>
+        </SuccessResponse>
+    http_version: 
+  recorded_at: Tue, 17 Sep 2019 19:16:29 GMT
+recorded_with: VCR 4.0.0
