@@ -519,6 +519,17 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "require 'spec_helper'\n\nRSpec.describe Linio::Api::Client do\n  let(:valid_obj_params) do\n    {\n      user_id: \"hola@listify.mx\",\n      secret_key: \"1b7ef54aa2e8f71b31697e276b3b5f75a1d4578e\"\n    }\n  end\n\n  let(:valid_req_params) { {action: \"FeedList\"} }\n\n  describe '#initialize' do\n    # it {expect to have secret_key}\n  end\n\n  describe '#get' do\n    it 'initializes an object with valid params', :vcr do\n      client = described_class.new(valid_obj_params)\n      client.get(valid_req_params)\n    end\n  end\nend\n",
+			"file": "spec/linio/api/client_spec.rb",
+			"file_size": 487,
+			"file_write_time": 132132259869754000,
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -1080,10 +1091,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/isaac/Projects/listify/linio-sdk"
+		"/home/isaac/Projects/listify/linio-sdk",
+		"/home/isaac/Projects/listify/linio-sdk/spec",
+		"/home/isaac/Projects/listify/linio-sdk/spec/linio",
+		"/home/isaac/Projects/listify/linio-sdk/spec/linio/api"
 	],
 	"file_history":
 	[
+		"/home/isaac/Projects/listify/linio-sdk/spec/spec_helper.rb",
+		"/home/isaac/Projects/listify/linio-sdk/lib/linio/api/client.rb",
 		"/home/isaac/Projects/listify/linio/bin/console",
 		"/home/isaac/Projects/listify/linio/README.md",
 		"/home/isaac/Projects/listify/linio/lib/linio/api/client.rb",
@@ -1209,9 +1225,7 @@
 		"/home/isaac/Projects/listify/backend/app/controllers/product/attributes_controller.rb",
 		"/home/isaac/Projects/listify/backend/app/controllers/product/variants_controller.rb",
 		"/home/isaac/Projects/listify/backend/app/serializers/product_category_serializer.rb",
-		"/home/isaac/Projects/listify/backend/db/migrate/20190815013922_create_product_categories_table.rb",
-		"/home/isaac/Projects/listify/backend/db/migrate/20190805133238_create_listing_table.rb",
-		"/home/isaac/Projects/listify/backend/app/controllers/marketplaces_controller.rb"
+		"/home/isaac/Projects/listify/backend/db/migrate/20190815013922_create_product_categories_table.rb"
 	],
 	"find":
 	{
@@ -1246,8 +1260,191 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "spec/linio/api/client_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.66.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

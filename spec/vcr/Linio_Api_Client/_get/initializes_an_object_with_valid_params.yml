@@ -43,4 +43,47 @@ http_interactions:
         </ErrorResponse>
     http_version: 
   recorded_at: Tue, 17 Sep 2019 20:33:11 GMT
+- request:
+    method: get
+    uri: https://sellercenter-api.linio.com.mx/?query%5BAction%5D=FeedList&query%5BFormat%5D=XML&query%5BSignature%5D=dd722b06a34bd0ce8d86a3bf435619c866128ae45c30dc9ded712fb61605e4c1&query%5BTimestamp%5D=2019-09-17T17:24:38-05:00&query%5BUserID%5D=hola@listify.mx&query%5BVersion%5D=1.0&verify=false
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 17 Sep 2019 22:24:38 GMT
+      Content-Type:
+      - text/xml; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Server:
+      - nginx/1.15.3
+    body:
+      encoding: UTF-8
+      string: |
+        <?xml version="1.0" encoding="UTF-8"?>
+        <ErrorResponse>
+          <Head>
+            <RequestAction/>
+            <ErrorType>Sender</ErrorType>
+            <ErrorCode>1</ErrorCode>
+            <ErrorMessage>E001: Parameter Version is mandatory</ErrorMessage>
+          </Head>
+          <Body/>
+        </ErrorResponse>
+    http_version: 
+  recorded_at: Tue, 17 Sep 2019 22:24:38 GMT
 recorded_with: VCR 4.0.0

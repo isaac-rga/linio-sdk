@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 RSpec.describe Linio::Api::Request do
   let(:type) { 'get' }
   let(:params_to_sign) do

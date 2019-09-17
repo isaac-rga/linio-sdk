@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 RSpec.describe Linio::Api::RequestSigner do
   let(:valid_signature) do
     '3ceb8ed91049dfc718b0d2d176fb2ed0e5fd74f76c5971f34cdab48412476041'

@@ -1,0 +1,7 @@
+example_id                                     | status | run_time        |
+---------------------------------------------- | ------ | --------------- |
+./spec/linio/api/client_spec.rb[1:2:1]         | passed | 0.46059 seconds |
+./spec/linio/api/request_signer_spec.rb[1:2:1] | passed | 0.00112 seconds |
+./spec/linio/api/request_signer_spec.rb[1:2:2] | passed | 0.00029 seconds |
+./spec/linio/api/request_spec.rb[1:1:1]        | passed | 0.02038 seconds |
+./spec/linio/api_spec.rb[1:1]                  | passed | 0.0005 seconds  |

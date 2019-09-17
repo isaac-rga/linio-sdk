@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 RSpec.describe Linio::Api::Client do
   let(:valid_obj_params) do
     {
