@@ -3,6 +3,7 @@ require 'linio/api'
 require 'pry'
 require 'vcr'
 require 'webmock'
+require 'webmock/rspec'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

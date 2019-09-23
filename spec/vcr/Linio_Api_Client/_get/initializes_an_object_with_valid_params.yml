@@ -74,4 +74,60 @@ http_interactions:
         </SuccessResponse>
     http_version: 
   recorded_at: Tue, 17 Sep 2019 23:14:59 GMT
+- request:
+    method: get
+    uri: https://sellercenter-api.linio.com.mx/?Action=FeedList&Format=XML&Signature=b44c53692117fd01608e96141c91ad49b3ed1f3414f426940ba7e4c74c028477&Timestamp=2019-09-23T14:14:39-05:00&UserID=hola@listify.mx&Version=1.0
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Mon, 23 Sep 2019 19:14:40 GMT
+      Content-Type:
+      - text/xml; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Server:
+      - nginx/1.15.3
+    body:
+      encoding: UTF-8
+      string: |
+        <?xml version="1.0" encoding="UTF-8"?>
+        <SuccessResponse>
+          <Head>
+            <RequestId/>
+            <RequestAction>FeedList</RequestAction>
+            <ResponseType>Feed</ResponseType>
+            <Timestamp>2019-09-23T14:14:40-0500</Timestamp>
+          </Head>
+          <Body>
+            <Feed>
+              <Feed>8d995b7d-95a2-444c-ac79-f1eae48f5f79</Feed>
+              <Status>Finished</Status>
+              <Action>ProductCreate</Action>
+              <CreationDate>2019-09-23 13:17:08</CreationDate>
+              <UpdatedDate>2019-09-23 13:17:08</UpdatedDate>
+              <Source>api</Source>
+              <TotalRecords>1</TotalRecords>
+              <ProcessedRecords>1</ProcessedRecords>
+              <FailedRecords>1</FailedRecords>
+              <FailureReports/>
+            </Feed>
+          </Body>
+        </SuccessResponse>
+    http_version: 
+  recorded_at: Mon, 23 Sep 2019 19:14:40 GMT
 recorded_with: VCR 4.0.0
